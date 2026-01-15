@@ -1,0 +1,64 @@
+# Knowledge Base Template - Cursor Rules
+
+Next.js 15+ documentation site with markdown content, dark mode, and centralized design system.
+
+## Project Structure
+
+- app/ - Next.js App Router (globals.css has design tokens, [slug]/page.tsx for docs)
+- components/ - React components (Sidebar, DocContent, ThemeToggle, SearchDialog)
+- config/site.ts - Site identity, navigation, sidebar categories
+- content/ - Markdown docs (XX-slug.md naming, frontmatter required)
+- lib/ - Utilities (docs.ts, markdown.ts, search.ts)
+- public/ - Static assets (logo, icons)
+
+## Quick Customization
+
+### Site Identity (config/site.ts)
+- name, title, description, keywords - SEO and branding
+- logo.src - Path to logo in /public
+- logo.invertOnDark - True for dark logos
+- navigation.homeSlug - Default landing page
+- sidebar.categories - Doc groupings by order ranges
+
+### Design Tokens (app/globals.css)
+All styling via CSS variables in :root and .dark blocks:
+- Colors: --color-bg, --color-text, --color-primary, --color-border
+- Typography: --text-sm, --text-base, --text-lg, etc.
+- Spacing: --space-1 through --space-16
+- Layout: --sidebar-width, --toc-width, --content-max-width
+
+## Adding Documentation
+
+Frontmatter (required):
+---
+title: Page Title
+description: SEO description
+slug: url-slug
+order: 1
+---
+
+Docs grouped by order value. Configure ranges in config/site.ts sidebar.categories.
+
+## Component Patterns
+
+Server Components (default): Sidebar.tsx, DocContent.tsx
+Client Components ("use client"): ThemeToggle.tsx, SearchDialog.tsx, MobileNav.tsx
+
+Use CSS variables: className="bg-[var(--color-bg-subtle)] text-[var(--color-text)]"
+
+## Dark Mode
+
+Uses .dark class on html. All tokens have dark overrides. Never hardcode colors.
+
+## Code Blocks
+
+rehype-pretty-code with dual themes (github-light/github-dark). Configure in lib/markdown.ts.
+
+## Deployment
+
+Vercel: Connect GitHub, auto-deploys.
+Static: Set output: 'export' in next.config.ts, deploy out/ folder.
+
+## Tech Stack
+
+Next.js 15+, Tailwind CSS 4, @tailwindcss/typography, unified, remark-gfm, rehype-pretty-code, Fuse.js, next-themes
