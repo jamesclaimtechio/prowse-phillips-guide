@@ -5,11 +5,11 @@
 
 export const siteConfig = {
   // Site identity
-  name: "Knowledge Base",
-  title: "Knowledge Base",
-  titleTemplate: "%s | Docs",
-  description: "Documentation and guides for your product or project.",
-  keywords: ["documentation", "knowledge base", "guides", "help"],
+  name: "Prowse Phillips App Guide",
+  title: "Prowse Phillips App Guide",
+  titleTemplate: "%s | Prowse Phillips",
+  description: "Official documentation and guides for the Prowse Phillips application.",
+  keywords: ["prowse phillips", "app guide", "documentation", "help", "guides"],
 
   // Logo configuration
   logo: {
