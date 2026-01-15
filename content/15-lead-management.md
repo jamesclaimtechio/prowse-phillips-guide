@@ -1,3 +1,10 @@
+---
+title: "Lead Management"
+slug: "lead-management"
+description: "Working with leads - potential clients who have started but not completed onboarding."
+order: 34
+---
+
 # Lead Management
 
 This guide covers how to work with leads - potential clients who have started but not completed the onboarding process. Lead management is primarily the responsibility of the Sales team.
@@ -360,7 +367,7 @@ They remain in the system with their lead status. They can return and complete o
 
 ## Related Documentation
 
-- [Understanding the Workflow](./02-understanding-the-workflow.md) - Client status progression
-- [Client Management](./03-client-management.md) - Viewing client profiles
-- [Client Payments](./09-payments.md) - How first payment triggers conversion
-- [Calendar and Scheduling](./16-calendar-scheduling.md) - Booking callbacks
+- [Understanding the Workflow](/understanding-the-workflow) - Client status progression
+- [Client Management](/client-management) - Viewing client profiles
+- [Client Payments](/payments) - How first payment triggers conversion
+- [Calendar and Scheduling](/calendar-scheduling) - Booking callbacks

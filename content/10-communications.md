@@ -1,3 +1,10 @@
+---
+title: "Communications"
+slug: "communications"
+description: "The communications system - viewing, filtering, and understanding emails and SMS messages."
+order: 18
+---
+
 # Communications
 
 This guide covers the communications system - how to view, filter, and understand all emails and SMS messages sent to and from clients and creditors.
@@ -253,7 +260,7 @@ Use the **Email Creditor** feature from case communications:
 3. Follow the template workflow
 4. Send
 
-See [Documents and Correspondence](./06-documents-and-correspondence.md) for full details.
+See [Documents and Correspondence](/documents-and-correspondence) for full details.
 
 ---
 
@@ -456,7 +463,7 @@ Attachments sent with emails should be listed in the communication details. If t
 
 ## Related Documentation
 
-- [Documents and Correspondence](./06-documents-and-correspondence.md) - Sending creditor emails
-- [Client Management](./03-client-management.md) - Client communications tab
-- [Case Management](./04-case-management.md) - Case communications tab
-- [Investigation Process](./05-investigation-process.md) - DSAR and S78 correspondence
+- [Documents and Correspondence](/documents-and-correspondence) - Sending creditor emails
+- [Client Management](/client-management) - Client communications tab
+- [Case Management](/case-management) - Case communications tab
+- [Investigation Process](/investigation-process) - DSAR and S78 correspondence

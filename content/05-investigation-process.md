@@ -1,3 +1,10 @@
+---
+title: "The Investigation Process"
+slug: "investigation-process"
+description: "The core investigation workflow - how we investigate debts to determine if they're legally enforceable."
+order: 13
+---
+
 # The Investigation Process
 
 This guide explains the core investigation workflow - how we investigate debts to determine if they're legally enforceable. This is the heart of what we do.
@@ -389,7 +396,7 @@ When Route U is confirmed:
 3. **Handler:** May transfer to Post-Lit team
 4. **Goal:** Send Letter of Claim demanding debt write-off
 
-See [Approval Workflows](./08-approvals.md) for LOC process.
+See [Approval Workflows](/approvals) for LOC process.
 
 ### Route E: Next Steps
 
@@ -407,7 +414,7 @@ The process involves:
 4. Send to creditor
 5. Negotiate terms
 
-See [Approval Workflows](./08-approvals.md) for settlement process.
+See [Approval Workflows](/approvals) for settlement process.
 
 ---
 
@@ -541,8 +548,8 @@ Note any changes in the client record. Their financial situation doesn't affect 
 
 ## Related Documentation
 
-- [Understanding the Workflow](./02-understanding-the-workflow.md) - Overall case lifecycle
-- [Case Management](./04-case-management.md) - Status changes and case handling
-- [Documents and Correspondence](./06-documents-and-correspondence.md) - Sending creditor emails
-- [Tasks and Work Queues](./07-tasks-and-queues.md) - Chase task management
-- [Approval Workflows](./08-approvals.md) - Route determination and LOC approvals
+- [Understanding the Workflow](/understanding-the-workflow) - Overall case lifecycle
+- [Case Management](/case-management) - Status changes and case handling
+- [Documents and Correspondence](/documents-and-correspondence) - Sending creditor emails
+- [Tasks and Work Queues](/tasks-and-queues) - Chase task management
+- [Approval Workflows](/approvals) - Route determination and LOC approvals

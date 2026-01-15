@@ -1,3 +1,10 @@
+---
+title: "Client Portal Overview"
+slug: "client-portal-overview"
+description: "What clients see and can do in their portal - understanding the client experience."
+order: 36
+---
+
 # Client Portal Overview
 
 This guide explains what clients see and can do in their portal. Understanding the client experience helps you support them better and answer their questions.
@@ -426,7 +433,7 @@ They need to contact us to update their email. This affects their portal access 
 
 ## Related Documentation
 
-- [Client Management](./03-client-management.md) - Managing client records
-- [Communications](./10-communications.md) - Client communication tracking
-- [Client Payments](./09-payments.md) - Payment management
-- [Troubleshooting](./12-troubleshooting.md) - Common issues
+- [Client Management](/client-management) - Managing client records
+- [Communications](/communications) - Client communication tracking
+- [Client Payments](/payments) - Payment management
+- [Troubleshooting](/troubleshooting) - Common issues

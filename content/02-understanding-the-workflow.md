@@ -1,3 +1,10 @@
+---
+title: "Understanding the Workflow"
+slug: "understanding-the-workflow"
+description: "How debt contention cases work from start to finish - the foundation of everything you'll do in the system."
+order: 2
+---
+
 # Understanding the Workflow
 
 This document explains how debt contention cases work from start to finish. Understanding this workflow is essential - it's the foundation of everything you'll do in the system.
@@ -439,15 +446,15 @@ Total: **3-6 months** from onboarding to case closure, depending on creditor res
 
 Now that you understand the workflow:
 
-1. **[Client Management](./03-client-management.md)** - Learn to navigate client records
-2. **[Case Management](./04-case-management.md)** - Daily case handling operations
-3. **[Investigation Process](./05-investigation-process.md)** - Deep dive into DSAR, S78, and analysis
+1. **[Client Management](/client-management)** - Learn to navigate client records
+2. **[Case Management](/case-management)** - Daily case handling operations
+3. **[Investigation Process](/investigation-process)** - Deep dive into DSAR, S78, and analysis
 
 ---
 
 ## Related Documentation
 
-- [Case Management](./04-case-management.md) - Working with cases day-to-day
-- [Investigation Process](./05-investigation-process.md) - Detailed investigation procedures
-- [Approval Workflows](./08-approvals.md) - How solicitor approvals work
-- [Client Payments](./09-payments.md) - Payment plan management
+- [Case Management](/case-management) - Working with cases day-to-day
+- [Investigation Process](/investigation-process) - Detailed investigation procedures
+- [Approval Workflows](/approvals) - How solicitor approvals work
+- [Client Payments](/payments) - Payment plan management

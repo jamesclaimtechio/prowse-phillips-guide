@@ -1,3 +1,10 @@
+---
+title: "Tasks and Work Queues"
+slug: "tasks-and-queues"
+description: "Using the task system to manage your workload efficiently and prioritize your day."
+order: 15
+---
+
 # Tasks and Work Queues
 
 This guide explains how to use the task system to manage your workload efficiently. Tasks ensure nothing falls through the cracks and help you prioritize your day.
@@ -461,7 +468,7 @@ Cancel the task with a note explaining it was created in error. Don't just ignor
 
 ## Related Documentation
 
-- [Case Management](./04-case-management.md) - Case status and workflow
-- [Investigation Process](./05-investigation-process.md) - Chase timing and deadlines
-- [Documents and Correspondence](./06-documents-and-correspondence.md) - Sending chase emails
-- [Approval Workflows](./08-approvals.md) - Approval-related tasks
+- [Case Management](/case-management) - Case status and workflow
+- [Investigation Process](/investigation-process) - Chase timing and deadlines
+- [Documents and Correspondence](/documents-and-correspondence) - Sending chase emails
+- [Approval Workflows](/approvals) - Approval-related tasks

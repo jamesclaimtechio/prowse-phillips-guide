@@ -1,3 +1,10 @@
+---
+title: "Case Management"
+slug: "case-management"
+description: "Day-to-day work of managing cases - viewing status and progressing cases through the investigation workflow."
+order: 12
+---
+
 # Case Management
 
 This guide covers the day-to-day work of managing cases - from viewing and understanding case status to progressing cases through the investigation workflow.
@@ -304,7 +311,7 @@ All documents related to this case.
 - **Download** - Save to your computer
 - **Email** - Attach to a creditor email
 
-For uploading documents, see [Documents and Correspondence](./06-documents-and-correspondence.md).
+For uploading documents, see [Documents and Correspondence](/documents-and-correspondence).
 
 ---
 
@@ -327,7 +334,7 @@ Communications are listed in reverse chronological order:
 
 ### Email Creditor Button
 
-The prominent "Email Creditor" button opens the email composer to send correspondence to the creditor. This is covered in detail in [Documents and Correspondence](./06-documents-and-correspondence.md).
+The prominent "Email Creditor" button opens the email composer to send correspondence to the creditor. This is covered in detail in [Documents and Correspondence](/documents-and-correspondence).
 
 ---
 
@@ -527,8 +534,8 @@ This varies by role and experience:
 
 ## Related Documentation
 
-- [Understanding the Workflow](./02-understanding-the-workflow.md) - Case lifecycle overview
-- [Investigation Process](./05-investigation-process.md) - DSAR, S78, and Maxi Reports
-- [Documents and Correspondence](./06-documents-and-correspondence.md) - Working with documents
-- [Tasks and Work Queues](./07-tasks-and-queues.md) - Managing your workload
-- [Approval Workflows](./08-approvals.md) - LOC and settlement approvals
+- [Understanding the Workflow](/understanding-the-workflow) - Case lifecycle overview
+- [Investigation Process](/investigation-process) - DSAR, S78, and Maxi Reports
+- [Documents and Correspondence](/documents-and-correspondence) - Working with documents
+- [Tasks and Work Queues](/tasks-and-queues) - Managing your workload
+- [Approval Workflows](/approvals) - LOC and settlement approvals

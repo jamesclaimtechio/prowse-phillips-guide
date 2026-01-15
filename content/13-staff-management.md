@@ -1,3 +1,10 @@
+---
+title: "Staff Management"
+slug: "staff-management"
+description: "Managing staff accounts in the system - available to Admin and Solicitor roles."
+order: 32
+---
+
 # Staff Management
 
 This guide covers how to manage staff accounts in the system. Staff management is only available to users with Admin or Solicitor roles.
@@ -356,7 +363,7 @@ Only Admin and Solicitor roles. Sales staff cannot see or access staff managemen
 
 ## Related Documentation
 
-- [Getting Started](./01-getting-started.md) - Staff roles overview
-- [Case Management](./04-case-management.md) - Handler assignment
-- [Tasks and Work Queues](./07-tasks-and-queues.md) - Task reassignment
-- [Troubleshooting](./12-troubleshooting.md) - Access issues
+- [Getting Started](/getting-started) - Staff roles overview
+- [Case Management](/case-management) - Handler assignment
+- [Tasks and Work Queues](/tasks-and-queues) - Task reassignment
+- [Troubleshooting](/troubleshooting) - Access issues

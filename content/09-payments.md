@@ -1,3 +1,10 @@
+---
+title: "Client Payments"
+slug: "payments"
+description: "How client payments work - fee calculation, payment tracking, and handling issues."
+order: 17
+---
+
 # Client Payments
 
 This guide explains how client payments work - from fee calculation through payment tracking and handling issues. Understanding the payment system is essential because payment status directly affects case progress.
@@ -495,7 +502,7 @@ Refund requests should be escalated to management. Refunds are possible but requ
 
 ## Related Documentation
 
-- [Understanding the Workflow](./02-understanding-the-workflow.md) - Client status progression
-- [Client Management](./03-client-management.md) - Viewing client payment info
-- [Case Management](./04-case-management.md) - How payment affects cases
-- [Troubleshooting](./12-troubleshooting.md) - Payment issue resolution
+- [Understanding the Workflow](/understanding-the-workflow) - Client status progression
+- [Client Management](/client-management) - Viewing client payment info
+- [Case Management](/case-management) - How payment affects cases
+- [Troubleshooting](/troubleshooting) - Payment issue resolution

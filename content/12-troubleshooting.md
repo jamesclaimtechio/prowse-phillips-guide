@@ -1,3 +1,10 @@
+---
+title: "Troubleshooting"
+slug: "troubleshooting"
+description: "Solutions to common issues - a quick reference when something isn't working as expected."
+order: 51
+---
+
 # Troubleshooting
 
 This guide provides solutions to common issues you may encounter while using the system. Use this as a quick reference when something isn't working as expected.
@@ -76,7 +83,7 @@ If you don't receive the email, check spam folder or contact IT.
 - System configuration issue
 
 **Solution:**
-1. Verify what your role should allow (see [Getting Started](./01-getting-started.md#staff-roles))
+1. Verify what your role should allow (see [Getting Started](/getting-started#staff-roles))
 2. If you should have access, contact your team lead
 3. They can request permission changes from IT
 
@@ -130,7 +137,7 @@ If you don't receive the email, check spam folder or contact IT.
 - System error
 
 **Solution:**
-1. Check if the transition is valid (see [Understanding the Workflow](./02-understanding-the-workflow.md))
+1. Check if the transition is valid (see [Understanding the Workflow](/understanding-the-workflow))
 2. Check for pending approvals on the case
 3. If transition should be valid, try refreshing the page
 4. If still failing, screenshot the error and contact IT
@@ -588,7 +595,7 @@ For serious errors (wrong client, major data changes), contact your team lead im
 
 ## Related Documentation
 
-- [Getting Started](./01-getting-started.md) - Basic navigation
-- [Case Management](./04-case-management.md) - Case workflows
-- [Client Payments](./09-payments.md) - Payment issues
-- [Communications](./10-communications.md) - Email/SMS issues
+- [Getting Started](/getting-started) - Basic navigation
+- [Case Management](/case-management) - Case workflows
+- [Client Payments](/payments) - Payment issues
+- [Communications](/communications) - Email/SMS issues

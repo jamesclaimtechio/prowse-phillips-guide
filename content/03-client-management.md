@@ -1,3 +1,10 @@
+---
+title: "Client Management"
+slug: "client-management"
+description: "Everything you need to know about finding, viewing, and managing client records in the system."
+order: 11
+---
+
 # Client Management
 
 This guide covers everything you need to know about finding, viewing, and managing client records in the system.
@@ -518,7 +525,7 @@ No, duplicates cannot be merged through the interface. If you find duplicate rec
 
 ## Related Documentation
 
-- [Understanding the Workflow](./02-understanding-the-workflow.md) - How cases progress
-- [Case Management](./04-case-management.md) - Working with individual cases
-- [Client Payments](./09-payments.md) - Deep dive into payment management
-- [Communications](./10-communications.md) - Detailed communication features
+- [Understanding the Workflow](/understanding-the-workflow) - How cases progress
+- [Case Management](/case-management) - Working with individual cases
+- [Client Payments](/payments) - Deep dive into payment management
+- [Communications](/communications) - Detailed communication features

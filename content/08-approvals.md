@@ -1,3 +1,10 @@
+---
+title: "Approval Workflows"
+slug: "approvals"
+description: "The approval process for legal documents - solicitor review and authorization before sending to creditors."
+order: 16
+---
+
 # Approval Workflows
 
 This guide explains the approval process for legal documents. Certain documents require solicitor review and authorization before being sent to creditors - this ensures legal accuracy and protects both the firm and our clients.
@@ -486,7 +493,7 @@ Approvals can be handled by any solicitor. The queue is shared, so another solic
 
 ## Related Documentation
 
-- [Understanding the Workflow](./02-understanding-the-workflow.md) - Route U vs Route E
-- [Investigation Process](./05-investigation-process.md) - Route determination process
-- [Documents and Correspondence](./06-documents-and-correspondence.md) - Sending approved documents
-- [Tasks and Work Queues](./07-tasks-and-queues.md) - Approval-related tasks
+- [Understanding the Workflow](/understanding-the-workflow) - Route U vs Route E
+- [Investigation Process](/investigation-process) - Route determination process
+- [Documents and Correspondence](/documents-and-correspondence) - Sending approved documents
+- [Tasks and Work Queues](/tasks-and-queues) - Approval-related tasks

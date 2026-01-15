@@ -1,3 +1,10 @@
+---
+title: "Glossary"
+slug: "glossary"
+description: "A comprehensive A-Z reference of terms used in the Prowse Phillips CRM system."
+order: 53
+---
+
 # Glossary
 
 A comprehensive A-Z reference of terms used in the Prowse Phillips CRM system.
@@ -357,6 +364,6 @@ When a creditor agrees to cancel a debt. The ideal outcome of a Route U case.
 
 ## Related Documentation
 
-- [Understanding the Workflow](./02-understanding-the-workflow.md) - Status explanations
-- [Compliance Guide](./18-compliance-guide.md) - Regulatory terms
-- [Quick Reference Cards](./20-quick-reference-cards.md) - Status at a glance
+- [Understanding the Workflow](/understanding-the-workflow) - Status explanations
+- [Compliance Guide](/compliance-guide) - Regulatory terms
+- [Quick Reference Cards](/quick-reference-cards) - Status at a glance

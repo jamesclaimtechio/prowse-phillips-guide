@@ -1,3 +1,10 @@
+---
+title: "Introducer Referrals"
+slug: "introducer-referrals"
+description: "The introducer system - how referral partners submit clients and how to track referrals."
+order: 31
+---
+
 # Introducer Referrals
 
 This guide explains the introducer system - how referral partners submit clients to us and how you can track these referrals.
@@ -370,6 +377,6 @@ The clients remain in the system and their attribution is preserved. Only new re
 
 ## Related Documentation
 
-- [Client Management](./03-client-management.md) - Viewing client details
-- [Case Management](./04-case-management.md) - Working with referred clients' cases
-- [Client Payments](./09-payments.md) - Payment tracking (for commission calculation)
+- [Client Management](/client-management) - Viewing client details
+- [Case Management](/case-management) - Working with referred clients' cases
+- [Client Payments](/payments) - Payment tracking (for commission calculation)

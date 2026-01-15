@@ -1,3 +1,10 @@
+---
+title: "Quick Reference Cards"
+slug: "quick-reference-cards"
+description: "One-page cheat sheets for common tasks and information - print or bookmark for quick reference."
+order: 54
+---
+
 # Quick Reference Cards
 
 One-page cheat sheets for common tasks and information. Print these or keep them bookmarked for quick reference.
@@ -419,7 +426,7 @@ Bookmark this page or print the cards you use most. They're designed for quick l
 
 ## Related Documentation
 
-- [Glossary](./19-glossary.md) - Full term definitions
-- [Understanding the Workflow](./02-understanding-the-workflow.md) - Detailed explanations
-- [Compliance Guide](./18-compliance-guide.md) - Full regulatory details
-- [Troubleshooting](./12-troubleshooting.md) - When things go wrong
+- [Glossary](/glossary) - Full term definitions
+- [Understanding the Workflow](/understanding-the-workflow) - Detailed explanations
+- [Compliance Guide](/compliance-guide) - Full regulatory details
+- [Troubleshooting](/troubleshooting) - When things go wrong

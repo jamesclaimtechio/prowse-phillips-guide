@@ -1,3 +1,10 @@
+---
+title: "Calendar and Scheduling"
+slug: "calendar-scheduling"
+description: "The calendar system - managing appointments, scheduling callbacks, and setting availability."
+order: 35
+---
+
 # Calendar and Scheduling
 
 This guide covers the calendar system - how to manage appointments, schedule callbacks, block time, and set your availability.
@@ -481,7 +488,7 @@ They should be reassigned or rescheduled before your leave starts. Coordinate wi
 
 ## Related Documentation
 
-- [Lead Management](./15-lead-management.md) - Scheduling lead follow-ups
-- [Tasks and Work Queues](./07-tasks-and-queues.md) - Callback-related tasks
-- [Staff Management](./13-staff-management.md) - Staff availability settings
-- [Troubleshooting](./12-troubleshooting.md) - Calendar issues
+- [Lead Management](/lead-management) - Scheduling lead follow-ups
+- [Tasks and Work Queues](/tasks-and-queues) - Callback-related tasks
+- [Staff Management](/staff-management) - Staff availability settings
+- [Troubleshooting](/troubleshooting) - Calendar issues

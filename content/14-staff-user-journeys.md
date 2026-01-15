@@ -1,3 +1,10 @@
+---
+title: "Staff User Journeys"
+slug: "staff-user-journeys"
+description: "Visual walkthroughs of key workflows - understand how different tasks connect and what happens at each stage."
+order: 33
+---
+
 # Staff User Journeys
 
 This guide provides visual walkthroughs of the key workflows you'll perform in the system. Use these diagrams to understand how different tasks connect and what happens at each stage.
@@ -61,7 +68,7 @@ flowchart TB
 2. **After first payment:** Cases appear in "Ready to Assess" queue
 3. **Start investigation:** Send DSAR request
 
-**Related:** [Understanding the Workflow](./02-understanding-the-workflow.md), [Client Management](./03-client-management.md)
+**Related:** [Understanding the Workflow](/understanding-the-workflow), [Client Management](/client-management)
 
 ---
 
@@ -136,7 +143,7 @@ flowchart TB
 - No significant breaches
 - Client may benefit from settlement
 
-**Related:** [Investigation Process](./05-investigation-process.md), [Approval Workflows](./08-approvals.md)
+**Related:** [Investigation Process](/investigation-process), [Approval Workflows](/approvals)
 
 ---
 
@@ -204,7 +211,7 @@ flowchart TB
 - **Good case:** Partial write-off or settlement
 - **Unsuccessful:** Creditor disputes, may need litigation
 
-**Related:** [Approval Workflows](./08-approvals.md), [Documents and Correspondence](./06-documents-and-correspondence.md)
+**Related:** [Approval Workflows](/approvals), [Documents and Correspondence](/documents-and-correspondence)
 
 ---
 
@@ -280,7 +287,7 @@ flowchart TB
 - **Store cards:** 30-50% of balance
 - **Older debts (5+ years):** Often 20-40%
 
-**Related:** [Approval Workflows](./08-approvals.md), [Client Payments](./09-payments.md)
+**Related:** [Approval Workflows](/approvals), [Client Payments](/payments)
 
 ---
 
@@ -353,7 +360,7 @@ flowchart TB
 | Admin/meetings | 1-2 hours |
 | End of day review | 15 minutes |
 
-**Related:** [Tasks and Work Queues](./07-tasks-and-queues.md), [Case Management](./04-case-management.md)
+**Related:** [Tasks and Work Queues](/tasks-and-queues), [Case Management](/case-management)
 
 ---
 
@@ -413,7 +420,7 @@ flowchart TB
 | Offer settlement | Settlement Proposal | Amount, Terms |
 | Follow up | Chase templates | Original Date |
 
-**Related:** [Documents and Correspondence](./06-documents-and-correspondence.md), [Communications](./10-communications.md)
+**Related:** [Documents and Correspondence](/documents-and-correspondence), [Communications](/communications)
 
 ---
 
@@ -471,7 +478,7 @@ flowchart TB
 3. **Clear justification** - Explain your reasoning clearly
 4. **Check before submitting** - Avoid obvious errors
 
-**Related:** [Approval Workflows](./08-approvals.md), [Investigation Process](./05-investigation-process.md)
+**Related:** [Approval Workflows](/approvals), [Investigation Process](/investigation-process)
 
 ---
 
@@ -518,8 +525,8 @@ Keep these journeys bookmarked for:
 
 ## Related Documentation
 
-- [Understanding the Workflow](./02-understanding-the-workflow.md) - Detailed status explanations
-- [Case Management](./04-case-management.md) - Working with cases
-- [Investigation Process](./05-investigation-process.md) - DSAR, S78, Maxi details
-- [Approval Workflows](./08-approvals.md) - Approval process details
-- [Tasks and Work Queues](./07-tasks-and-queues.md) - Daily task management
+- [Understanding the Workflow](/understanding-the-workflow) - Detailed status explanations
+- [Case Management](/case-management) - Working with cases
+- [Investigation Process](/investigation-process) - DSAR, S78, Maxi details
+- [Approval Workflows](/approvals) - Approval process details
+- [Tasks and Work Queues](/tasks-and-queues) - Daily task management

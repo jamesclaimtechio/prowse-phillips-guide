@@ -13,9 +13,9 @@ export const siteConfig = {
 
   // Logo configuration
   logo: {
-    light: "/Template Logo black text.png",  // Used in light mode
-    dark: "/Template Logo white text.png",   // Used in dark mode
-    alt: "Logo",
+    light: "/company-logo.svg",       // Used in light mode
+    dark: "/company-logo-dark.svg",   // Used in dark mode
+    alt: "Prowse Phillips",
   },
 
   // Theme configuration
@@ -36,8 +36,9 @@ export const siteConfig = {
   sidebar: {
     categories: [
       { name: "Getting Started", orderRange: [1, 10] as const },
-      { name: "Guides", orderRange: [11, 50] as const },
-      { name: "Reference", orderRange: [51, 100] as const },
+      { name: "Core Operations", orderRange: [11, 30] as const },
+      { name: "Advanced Features", orderRange: [31, 50] as const },
+      { name: "Reference", orderRange: [51, 70] as const },
     ],
   },
 } as const;

@@ -1,3 +1,10 @@
+---
+title: "Compliance Guide"
+slug: "compliance-guide"
+description: "Key regulatory requirements that affect your daily work - protecting clients and the firm."
+order: 52
+---
+
 # Compliance Guide
 
 This guide covers the key regulatory requirements that affect your daily work. Understanding compliance helps protect both our clients and the firm.
@@ -440,8 +447,8 @@ Yes, the system logs actions automatically. Additional context should be added v
 
 ## Related Documentation
 
-- [Understanding the Workflow](./02-understanding-the-workflow.md) - Case process
-- [Investigation Process](./05-investigation-process.md) - DSAR and S78 details
-- [Client Payments](./09-payments.md) - Payment plan types
-- [Troubleshooting](./12-troubleshooting.md) - Escalation paths
-- [Quick Reference Cards](./20-quick-reference-cards.md) - Deadlines at a glance
+- [Understanding the Workflow](/understanding-the-workflow) - Case process
+- [Investigation Process](/investigation-process) - DSAR and S78 details
+- [Client Payments](/payments) - Payment plan types
+- [Troubleshooting](/troubleshooting) - Escalation paths
+- [Quick Reference Cards](/quick-reference-cards) - Deadlines at a glance

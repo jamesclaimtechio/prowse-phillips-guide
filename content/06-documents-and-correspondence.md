@@ -1,3 +1,10 @@
+---
+title: "Documents and Correspondence"
+slug: "documents-and-correspondence"
+description: "Managing documents and sending correspondence to creditors - essential skills for daily case handling."
+order: 14
+---
+
 # Documents and Correspondence
 
 This guide covers everything about managing documents and sending correspondence to creditors - essential skills for daily case handling.
@@ -465,7 +472,7 @@ Check the Communication status:
 
 ## Related Documentation
 
-- [Case Management](./04-case-management.md) - Status changes after sending
-- [Investigation Process](./05-investigation-process.md) - When to send each request
-- [Tasks and Work Queues](./07-tasks-and-queues.md) - Chase task automation
-- [Communications](./10-communications.md) - Detailed communication tracking
+- [Case Management](/case-management) - Status changes after sending
+- [Investigation Process](/investigation-process) - When to send each request
+- [Tasks and Work Queues](/tasks-and-queues) - Chase task automation
+- [Communications](/communications) - Detailed communication tracking
